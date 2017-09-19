@@ -1,6 +1,6 @@
 # Nombredor
 
-[![version](https://img.shields.io/npm/v/nombredor.svg?style=flat)](https://www.npmjs.com/package/nombredor)  
+[![version](https://img.shields.io/npm/v/nombredor.svg?style=flat)](https://www.npmjs.com/package/nombredor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **φ = (1 + sqrt(5)) / 2**
