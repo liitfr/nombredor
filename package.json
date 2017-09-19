@@ -1,25 +1,25 @@
 {
   "name": "nombredor",
-  "version": "0.1.1",
   "description": "1.618. Golden ratio with postcss.",
-  "main": "nombredor.sss",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "version": "0.1.1",
+  "author": "liitfr",
+  "bugs": {
+    "url": "https://github.com/liitfr/nombredor/issues"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/liitfr/nombredor.git"
-  },
+  "homepage": "https://github.com/liitfr/nombredor#readme",
   "keywords": [
     "nombredor",
     "golden ratio",
     "postcss"
   ],
-  "style": "nombredor.sss",
-  "author": "liitfr",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/liitfr/nombredor/issues"
+  "main": "nombredor.sss",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/liitfr/nombredor.git"
   },
-  "homepage": "https://github.com/liitfr/nombredor#readme"
+  "scripts": {
+    "test": "echo \"No test needed\" && exit 0"
+  },
+  "style": "nombredor.sss"
 }

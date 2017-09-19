@@ -1,10 +1,11 @@
 # Nombredor
 
+[![version](https://img.shields.io/npm/v/nombredor.svg?style=flat)](https://www.npmjs.com/package/nombredor)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **φ = (1 + sqrt(5)) / 2**
 
 Basically, an adaptation of [Responsive-Design-with-Golden-Ratio](https://github.com/etchedprints/Responsive-Design-with-Golden-Ratio) that works with **postcss**.
-
-> **Note:** This project is in early development, and versioning is a little different. [Read this](http://markup.im/#q4_cRZ1Q) for more details.
 
 ## Code
 
