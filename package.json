@@ -1,7 +1,7 @@
 {
   "name": "nombredor",
   "description": "1.618. Golden ratio with postcss.",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "author": "liitfr",
   "bugs": {
     "url": "https://github.com/liitfr/nombredor/issues"
